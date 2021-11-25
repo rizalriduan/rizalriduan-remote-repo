@@ -1,0 +1,12 @@
+- Buka git hub dulu dan buat new repository
+- boleh tick readme, dan boleh jadikan public atau private
+- Seterusnya, dkt button code boleh copy link repo yang telah dibuat di git hub td
+- dkt pc contohnya dkt desktop right click dan pilih git bash here
+- type git clone dan kemudian paste link yg copy td drp repo yg berada di git hub
+contonya -> $ git clone https://github.com/rizalriduan/rizalriduan-remote-repo.git
+
+- bila dah siap boleh check guna command berikut
+git remote
+
+-atau utk lihat lebih details
+git remote -v
