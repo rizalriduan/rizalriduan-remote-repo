@@ -10,3 +10,8 @@ git remote
 
 -atau utk lihat lebih details
 git remote -v
+
+-apabila ada penambahan file dlm repo local dkt pc slps siap commit dkt local repo utk hantar commit ke github atau remote
+kena type berikut
+git push
+
