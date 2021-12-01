@@ -1,10 +1,8 @@
 <?php
-echo "salam";
-
-
-
-$nama = "Rizal";
+$nama_depan = "Rizal";
+$nama_belakang = "Riduan";
 ?>
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -12,12 +10,11 @@ $nama = "Rizal";
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Tulis nama sendiri</title>
 </head>
 
 <body>
-    Salam <?php echo $nama; ?>
-    <p>Salam <?php echo $nama; ?> </p>
+    <p> Salam nama saya <?php echo $nama_depan . "" . $nama_belakang; ?></p>
 </body>
 
 </html>
