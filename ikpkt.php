@@ -18,6 +18,7 @@ $nama = "Rizal";
 <body>
     Salam <?php echo $nama; ?>
     <p>Salam <?php echo $nama; ?> </p>
+
 </body>
 
 </html>
