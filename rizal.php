@@ -15,6 +15,7 @@ $nama_belakang = "Riduan";
 
 <body>
     <p> Salam nama saya <?php echo $nama_depan . "" . "" . $nama_belakang; ?><br> cubaan</p>
+    <p> <?php echo $nama_depan; ?> dan <?php echo $nama_belakang;  ?> </p>
 </body>
 
 </html>
